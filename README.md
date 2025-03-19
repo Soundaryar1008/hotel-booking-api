@@ -74,7 +74,5 @@ This project provides **useful insights** into hotel booking trends and enables 
 
 🔹 **Developer:** _Soundarya_  
 🔹 **GitHub Repo:** [hotel-booking-api](https://github.com/Soundaryar1008/hotel-booking-api)  
-🔹 **Live API (if deployed):** (https://hotel-booking-api-lb1q.onrender.com/revenue-trends)
-
 
 
